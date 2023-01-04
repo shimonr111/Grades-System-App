@@ -1,0 +1,635 @@
+{
+    "user": [
+        {
+            "user_id": 206078537,
+            "first_name": "Amit",
+            "last_name": "Kempner",
+            "user_name": "am",
+            "password": "1",
+            "role": "Student",
+            "course_names": [
+                "WEB",
+                "OOP",
+                "Android",
+                "Data-Structures",
+                "Algorithms"
+            ]
+        },
+        {
+            "user_id": 316325927,
+            "first_name": "Shimon",
+            "last_name": "Rubin",
+            "user_name": "sh",
+            "password": "1",
+            "role": "Student",
+            "course_names": [
+                "WEB",
+                "Android",
+                "Operation Systems",
+                "QA",
+                "Data-Structures"
+            ]
+        },
+        {
+            "user_id": 207063843,
+            "first_name": "Daniel",
+            "last_name": "Ohayon",
+            "user_name": "da",
+            "password": "1",
+            "role": "Student",
+            "course_names": [
+                "WEB",
+                "Android",
+                "Operation Systems",
+                "QA",
+                "Data-Structures"
+            ]
+        },
+        {
+            "user_id": 255856347,
+            "first_name": "Rina",
+            "last_name": "Relat",
+            "user_name": "ri",
+            "password": "1",
+            "role": "Student",
+            "course_names": [
+                "WEB",
+                "Android",
+                "Operation Systems",
+                "QA",
+                "Data-Structures"
+            ]
+        },
+        {
+            "user_id": 2558556447,
+            "first_name": "Navot",
+            "last_name": "Relat",
+            "user_name": "na",
+            "password": "1",
+            "role": "Student",
+            "course_names": [
+                "WEB",
+                "Android",
+                "Operation Systems",
+                "QA",
+                "Data-Structures"
+            ]
+        },
+        {
+            "user_id": 222111333,
+            "first_name": "Alex",
+            "last_name": "Keselman",
+            "user_name": "al",
+            "password": "1",
+            "role": "Lecturer",
+            "course_names": [
+                "WEB"
+            ]
+        },
+        {
+            "user_id": 225458633,
+            "first_name": "Miri",
+            "last_name": "Daniv",
+            "user_name": "mi",
+            "password": "1",
+            "role": "Lecturer",
+            "course_names": [
+                "OOP"
+            ]
+        },
+        {
+            "user_id": 228988633,
+            "first_name": "Dolev",
+            "last_name": "Ronen",
+            "user_name": "dol",
+            "password": "1",
+            "role": "Lecturer",
+            "course_names": [
+                "Data-Structures"
+            ]
+        },
+        {
+            "user_id": 256365310,
+            "first_name": "Doron",
+            "last_name": "Levi",
+            "user_name": "dor",
+            "password": "1",
+            "role": "Lecturer",
+            "course_names": [
+                "QA"
+            ]
+        },
+        {
+            "user_id": 310098561,
+            "first_name": "Dikla",
+            "last_name": "Cohen",
+            "user_name": "di",
+            "password": "1",
+            "role": "Lecturer",
+            "course_names": [
+                "Android"
+            ]
+        },
+        {
+            "user_id": 312256328,
+            "first_name": "Moti",
+            "last_name": "Bergman",
+            "user_name": "mo",
+            "password": "1",
+            "role": "Lecturer",
+            "course_names": [
+                "Algorithms"
+            ]
+        }
+    ],
+    "WEB": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 207063843,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 255856347,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 2558556447,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ],
+    "OOP": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ],
+    "Data-Structures": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ],
+    "Operation Systems": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ],
+    "QA": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ],
+    "Algorithms": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ],
+    "Android": [
+        {
+            "user_id": 206078537,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        },
+        {
+            "user_id": 316325927,
+            "hw1_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw2_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw3_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hw4_grade": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "final_exam_grade": ""
+        }
+    ]
+}
