@@ -1,0 +1,10 @@
+.Header {
+	height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#my-h1-header{
+    font-size: 80px;
+}

@@ -1,0 +1,96 @@
+/*CSS for screen resolution with max widht of 1920px*/
+@media (max-width: 1920px) {
+    .LecturerAddGrades {
+        size: 100px;
+        display: inline-block;
+        max-height:450px;
+        text-align: center;
+        margin-top: -2%;
+        border: 2px solid black;
+        border-radius: 10px;
+        box-shadow: 3px 3px 20px;
+        background-color: white;
+        overflow: scroll;
+        overflow-x: hidden;
+    }
+}
+
+/*CSS for screen resolution with max widht of 1366px*/
+@media (max-width: 1366px) {
+    .LecturerAddGrades {
+        size: 100px;
+        display: inline-block;
+        max-height:370px;
+        text-align: center;
+        margin-top: -2%;
+        border: 2px solid black;
+        border-radius: 10px;
+        box-shadow: 3px 3px 20px;
+        background-color: white;
+        overflow: scroll;
+        overflow-x: hidden;
+    }
+}
+
+ /*CSS for whole resolutions*/
+.my-done-btn{
+    position: relative;     
+    right: 130px;
+}
+
+#my-hw-button{
+margin: 10px;
+}
+
+#my-input-grade{
+position: relative;
+width: 90px;
+font-size: medium;
+}
+
+#my-save-button{
+position: relative;
+bottom: 110px;
+left: 130px;
+}
+
+.LecturerAddGrades>th {
+font-size: 8px;
+text-align: center;
+}
+
+.LecturerAddGrades>td {
+text-align: center;
+font-size: 8px;
+}
+
+#my-table {
+    text-align: center;
+    font-size: medium;
+}
+
+#my-grade_btn{
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#claen-page {
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+
+#my-exit-btn{
+    position: relative;
+    bottom: 10px;
+    left: 150px;
+    width: 30px;
+    height: 30px;
+}
+
+#my-feedback{
+    position: relative;
+    font-size: 12px;
+}

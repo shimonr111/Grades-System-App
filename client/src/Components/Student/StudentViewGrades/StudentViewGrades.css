@@ -1,0 +1,21 @@
+.StudentViewGrades {
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px;
+    background-color: white;
+}
+
+#my-td-red{
+    color: red;
+}
+
+#my-td-green{
+    color: green;
+}
+
+#my-td-black{
+    color: black;
+}

@@ -1,0 +1,39 @@
+@media (max-width: 1920px) {
+.StudentHWSubmission {
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px;
+    background-color: white;
+ }
+}
+
+@media (max-width: 1366px) {
+    .StudentHWSubmission {
+        display: inline-block;
+        text-align: center;
+        border: 2px solid black;
+        padding: 15px;
+        border-radius: 10px;
+        box-shadow: 3px 3px 20px;
+        background-color: white;
+        max-height:420px;
+        max-width: 1000px;
+    }
+}
+
+#my-text{
+    width: 70%;
+}
+
+#my-td-submit{
+    text-align: left;
+}
+
+.my-submit{
+    width: 20%;
+    margin-top: -53px;
+    margin-left: 300px;
+}
