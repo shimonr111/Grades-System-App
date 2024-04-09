@@ -3,6 +3,9 @@
 ## Overview
 Grades System is a client-server web application designed for both lecturers and students. Built using JavaScript, CSS, HTML, React, and Node.js, it facilitates the management of course grades, exams, and homework.
 
+## Live Demo
+![](https://github.com/shimonr111/Grades-System-App/blob/main/Grades_System_App_Live_Demo.gif)
+
 ## Features
 ### For Lecturers:
 + Grade Publication: Easily publish grades for exams and homework.
